@@ -1,8 +1,11 @@
 Battleship
+
 Coding Language: Java
+
 Program: Eclipse Committers Neon.2
 
 How to Play:
+
   1.) Open up program.
   
   2.) Run program
